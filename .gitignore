@@ -13,7 +13,7 @@ obj/
 *.user
 
 # NuGet packages
-/packages/
+packages/
 *.nupkg
 *.paket
 
