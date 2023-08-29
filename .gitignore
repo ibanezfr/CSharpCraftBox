@@ -1,3 +1,31 @@
+# Compiled files
+/bin/
+/obj/
+*.exe
+*.dll
+*.pdb
+*.dll.config
+
+# IDE-specific
+.vscode/
+.idea/
+*.userprefs
+*.user
+
+# NuGet packages
+/packages/
+*.nupkg
+*.paket
+
+# Logs and caches
+*.log
+*.lock
+*.cache
+
+# Solution-specific
+*.suo
+
+
 # Prerequisites
 *.d
 
