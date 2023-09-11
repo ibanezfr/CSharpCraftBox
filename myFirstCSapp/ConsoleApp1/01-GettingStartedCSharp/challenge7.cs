@@ -28,7 +28,7 @@ variable inside the brackets, while the @ symbol allows you to use the unescaped
 // string nombreProyecto = "Primer-proyecto";
 // Console.WriteLine($@"c:\Output\{nombreProyecto}\Data");
 
-string nombreDelProy = "ACME";
+/* string nombreDelProy = "ACME";
 
 string mensajeEnRuso = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435" +
                        "\u0442\u044c \u0440\u0443\u0441\u0441\u043a\u0438" + 
@@ -37,4 +37,4 @@ string mensajeEnRuso = "\u041f\u043e\u0441\u043c\u043e\u0442\u0440\u0435" +
 Console.WriteLine($@"View English output:
     c:\Exercise\{nombreDelProy}\data.txt");
 Console.WriteLine($@"{mensajeEnRuso}:
-    c:\Exercise\{nombreDelProy}\ru-RU\data.txt");
+    c:\Exercise\{nombreDelProy}\ru-RU\data.txt"); */
