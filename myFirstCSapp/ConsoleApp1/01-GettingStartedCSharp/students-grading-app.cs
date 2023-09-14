@@ -25,7 +25,7 @@ Jeong       95.4  A
  */
  
  // initialize variables - graded assignments 
-int currentAssignments = 5;
+/* int currentAssignments = 5;
 
 int sofia1 = 93;
 int sofia2 = 87;
@@ -65,4 +65,4 @@ Console.WriteLine("Alumno\t\tNota\n");
 Console.WriteLine("Sofia:\t\t" + promedioSofia + "\tA");
 Console.WriteLine("Nicolas:\t" + promedioNicolas + "\tB");
 Console.WriteLine("Marta:\t\t" + promedioMarta + "\tB");
-Console.WriteLine("Juan:\t\t" + promedioJuan + "\tA");
+Console.WriteLine("Juan:\t\t" + promedioJuan + "\tA"); */
